@@ -16,8 +16,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-- Solution URL: [](https://github.com/tarikdincer/Product-Preview-Card-Component)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: (https://github.com/tarikdincer/Product-Preview-Card-Component)
+- Live Site URL: (https://your-live-site-url.com)
 
 ## Built with
 
