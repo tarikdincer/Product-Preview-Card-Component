@@ -11,8 +11,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Screenshot
 
-![Screenshot For Desktop](.screenshots/screenshot_desktop.PNG)
-![Screenshot For Mobile](.screenshots/screenshot_mobile.PNG)
+![Screenshot For Desktop](screenshots/screenshot_desktop.PNG)
+![Screenshot For Mobile](screenshots/screenshot_mobile.PNG)
 
 ## Links
 
